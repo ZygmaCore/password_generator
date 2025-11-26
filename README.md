@@ -97,7 +97,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/ZygmaCore/password_generator.git
-cd password-generator
+cd password_generator
 ```
 
 (Optional) Create virtual environment:
@@ -117,7 +117,7 @@ source .venv/bin/activate
 Run the script:
 
 ```bash
-python password_generator.py
+python main.py
 ```
 
 Example:
