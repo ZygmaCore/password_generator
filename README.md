@@ -96,7 +96,7 @@ Make sure you have:
 Clone the repo:
 
 ```bash
-git clone https://github.com/ZygmaCore/password-generator.git
+git clone https://github.com/ZygmaCore/password_generator.git
 cd password-generator
 ```
 
